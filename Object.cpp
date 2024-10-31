@@ -120,6 +120,12 @@ int main()
 	long int ----->unsigned long int
 	long long int ----->unsigned long long int
 	*/
+	int x = 0;
+	cin >> x;
+	for (int i = 0; i < x; i++)
+	{
+		cout << i << endl;
+	}
 
 	
 }
