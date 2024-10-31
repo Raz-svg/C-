@@ -1,0 +1,6 @@
+﻿  Object.cpp
+C:\Users\akshi\OneDrive\Desktop\Development\Object\Object.cpp(123,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+      C:\Users\akshi\OneDrive\Desktop\Development\Object\Object.cpp(123,9):
+      consider using '%zd' in the format string
+  
+  Object.vcxproj -> C:\Users\akshi\OneDrive\Desktop\Development\Object\x64\Debug\Object.exe
